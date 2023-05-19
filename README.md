@@ -8,7 +8,7 @@ To run the game locally, follow these steps:
 Clone the repository:
 bash: 
 
-_git clone https://github.com/victor-imani/React/tictactoe.git_
+_git clone https://github.com/victor-imani/React/tree/master/TicTacToe
 
 Change to the project directory:
 bash:
